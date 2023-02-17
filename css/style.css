@@ -210,6 +210,20 @@ a:hover {
   left: 60px;
 }
 
+.table-interests {
+  width:100%;
+  position: relative;
+  left: 90px;
+}
+
+.table-soft-skill{
+
+}
+
+.btn-skills{
+  width: 60px;
+}
+
 td {
   text-align: center;
   border: 5px;
