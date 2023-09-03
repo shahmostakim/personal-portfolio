@@ -667,7 +667,7 @@ td {
   padding: 0;
   height: 100%;
   width: 100%;
-  opacity: .9;
+  opacity: .5;
 }
 
 .intro .intro-title {
@@ -1325,4 +1325,25 @@ footer .credits a {
   .back-to-top {
     bottom: 15px;
   }
+}
+
+
+/* 
+=======  Social Icons Homepage =========
+*/
+.social-home {
+  background-color: #f1ecec;
+  opacity: 1;
+}
+
+.social-home:hover {
+  transform: scale(1.5);
+}
+
+.button-resume{
+  margin-top: 20px;
+}
+
+.button-resume:hover{
+  box-shadow: 0 0 15px white;
 }
