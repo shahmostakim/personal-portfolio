@@ -148,9 +148,14 @@ a:hover {
 }
 
 .title-a {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: bold;
   text-transform: uppercase;
+}
+
+.title-b{
+  font-size: 2.25rem;
+  font-weight: bold;
 }
 
 .subtitle-a {
