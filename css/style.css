@@ -1404,3 +1404,7 @@ footer .credits a {
 .project-img{
   height: 185px;
 }
+
+.about-me-small{
+  font-size: 1.12rem; 
+}
