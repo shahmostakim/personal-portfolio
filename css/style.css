@@ -1395,6 +1395,8 @@ footer .credits a {
 
 .project-title{
   text-align: center; 
+  margin-top: 10px;
+  margin-bottom: 10px; 
 }
 
 .project-div-img{
